@@ -1,0 +1,4 @@
+baseURL = 'https://YB-creation-cv.org/'
+languageCode = 'fr'
+title = 'My New CV Site'
+theme = 'ananke'

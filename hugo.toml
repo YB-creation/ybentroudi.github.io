@@ -1,4 +1,4 @@
 baseURL = 'https://YB-creation-cv.org/'
 languageCode = 'fr'
-title = 'My New CV Site'
+title = 'YB-creation'
 theme = 'ananke'
